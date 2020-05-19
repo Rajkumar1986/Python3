@@ -3,4 +3,4 @@ FROM python:latest
 
 # MAINTAINER
 MAINTAINER "Rajkumar Vijayakumar"
-COPY ./test.txt /usr/local
+COPY test.txt /usr/local
