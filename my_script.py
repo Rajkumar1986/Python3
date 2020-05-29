@@ -1,5 +1,6 @@
 # Sample taken from pyStrich GitHub repository
 # https://github.com/mmulqueen/pyStrich
+# For Commit sake
 from pystrich.datamatrix import DataMatrixEncoder
 
 encoder = DataMatrixEncoder('This is a DataMatrix.')
